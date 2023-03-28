@@ -1,0 +1,22 @@
+/* COLORS */
+/* TYPE */
+/* BREAKPOINTS */
+body {
+  background-color: #19a1ae;
+  font-family: "Kumbh Sans", sans-serif;
+  font-weight: 400;
+  font-size: 1.125rem;
+  color: #6b7082;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.container {
+  width: 100%;
+  min-width: 250px;
+  max-width: 350px;
+}
+/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIi4uL3Nhc3MvdmFyaWFibGVzLnNjc3MiLCIuLi9zYXNzL2dlbmVyYWwuc2NzcyIsImdlbmVyYWwuY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUNBLFdBQUE7QUFPQSxTQUFBO0FBU0EsZ0JBQUE7QUNmQTtFQUNFLHlCREdvQztFQ0RwQyxxQ0RJbUM7RUNIbkMsZ0JESWM7RUNIZCxtQkRNbUI7RUNMbkIsY0RKOEI7RUNNOUIsaUJBQWlCO0VBRWpCLGFBQWE7RUFDYix1QkFBdUI7RUFDdkIsbUJBQW1CO0VBRW5CLGdCQUFnQjtBQ0ZsQjs7QURLQTtFQUNFLFdBQVc7RUFDWCxnQkFBZ0I7RUFDaEIsZ0JBQWdCO0FDRmxCIiwiZmlsZSI6ImdlbmVyYWwuY3NzIn0= */
